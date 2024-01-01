@@ -58,7 +58,7 @@ $$
 \theta = E_f[g(x)] = \int_A g(x)f(x) dx
 $$
 
-ただし, 関数 $f(x)$ を $A \subset \boldsymbol R$ をサポートにもつ確率密度関数とする.
+ただし, 関数 $f(x)$ を $A \subset \R$ をサポートにもつ確率密度関数とする.
 
 ### 近似方法
 
